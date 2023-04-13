@@ -1,6 +1,6 @@
 package Practice;
 
-public class A 
+public class ATest 
 {
 	public static void main(String[] args) {
 		System.out.println("This is A block");
